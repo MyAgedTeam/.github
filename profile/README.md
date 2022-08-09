@@ -1,2 +1,1 @@
-MyGithubTeam
-MyAgedTeam
+MyGithubTeam:MyAgedTeam
